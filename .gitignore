@@ -1,0 +1,13 @@
+
+# compiled output
+target/
+dist/
+build/
+
+# IDEs and editors
+.idea/
+*.iml
+
+# System Files
+.DS_Store
+Thumbs.db
