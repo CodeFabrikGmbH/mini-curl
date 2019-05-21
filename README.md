@@ -1,7 +1,7 @@
 # mini-curl
 Minimalistic client to request urls
 
-The program can make GET or PORT requests to a given url. 
+The program can make GET or POST requests to a given url. 
 On http code 200 the program exit code is 0. On any error the exit code is -1.
 
 # Parameters
